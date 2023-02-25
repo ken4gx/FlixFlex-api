@@ -41,10 +41,9 @@ Project is an API that enable users to navigate through movies and TV Shows caus
 | DELETE | /api/favorites/deleteMovie/{id} | To retrieve all movies on the platform |
 | DELETE | /api/favorites/deleteShow/{id} | To retrieve all movies on the platform |
 ### Technologies Used
-* [NodeJS](https://nodejs.org/) This is a cross-platform runtime environment built on Chrome's V8 JavaScript engine used in running JavaScript codes on the server. It allows for installation and managing of dependencies and communication with databases.* [ExpressJS](https://www.expresjs.org/) This is a NodeJS web application framework.* [MongoDB](https://www.mongodb.com/) This is a free open source NOSQL document database with scalability and flexibility. Data are stored in flexible JSON-like documents.* [Mongoose ODM](https://mongoosejs.com/) This makes it easy to write MongoDB validation by providing a straight-forward, schema-based solution to model to application data.### Authors
-* [Black Developa](https://github.com/blackdevelopa)
-* ![alt text](https://avatars0.githubusercontent.com/u/29962968?s=400&u=7753a408ed02e51f88a13a5d11014484bc4d80ee&v=4)### License
-This project is available for use under the MIT License.
+* [PHP](https://php.net/) A popular general-purpose scripting language that is especially suited to web development.
+* [LARAVEL](https://www.laravel.com/) is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+* [SQL]Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
 
 
 # REST API
