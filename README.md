@@ -13,6 +13,8 @@ Project is an API that enable users to navigate through movies and TV Shows caus
 * The master branch is the most stable branch at any given time, ensure you're working from it.
 * Run composer install to install all dependencies
 * Create an .env file in your project root folder and add your variables. See .env.sample for assistance.
+* Add a variable TMDB_API_KEY to your .env file that will contain the api key to TMDB api. 
+* TMDB_API_KEY=efbbfbc3953deb0ce6a7f088bd8e9df5.
 * Run the command php artisan key:generate.
 * Run the command php artisan migrate.
 * Run the command php artisan jwt:secret.
